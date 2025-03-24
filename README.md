@@ -1,21 +1,44 @@
-# HR Analytics - Presence Insights 📊
-This repository contains an HR analytics dashboard designed to provide insights into employee presence, work-from-home (WFH) percentage, and sick leave (SL) percentage over time. The dashboard is built using Power BI, enabling data-driven decision-making for workforce management.
+# Dashboarding for HR Data
 
-# 📌 Features
-- **Presence % Analysis**: Tracks employee attendance trends over time.
-- **Work-from-Home % Trends**: Monitors the percentage of employees working remotely.
-- **Sick Leave % Insights**:Displays trends in sick leave usage across employees.
-- **Employee-wise Breakdown**: View individual employee attendance, WFH, and SL records.
-- **Day-wise Patterns**: Understand presence, WFH, and SL trends based on weekdays.
+## Project Overview
+This project focuses on creating interactive HR dashboards to visualize key workforce metrics using data visualization tools.
 
-# Key Insights:
-- **✅ Overall Presence Rate**: 91.55%, indicating high attendance across employees.
-- **✅ Work-from-Home (WFH) Rate**: 11.15%, showing a moderate level of remote work.
-- **✅ Sick Leave (SL) Rate**: 1.18%, suggesting minimal sick leave usage.
-- **✅ Top Performers**: Employees like Thanos Thakur, Sofia Solis, and Shea Zuniga have 100% presence.
-- **✅ Trends Over Time**: Presence fluctuates but remains stable around 90% with occasional dips.
-- **✅ Day-wise Analysis**:Tuesday & Monday have the highest presence (~92.6%).
-Friday sees the highest WFH percentage (13.83%).
-Sick leaves peak on Thursdays (~1.14%) and Tuesdays (~1.29%).
+## Tools Used
+- Microsoft Power BI / Tableau
+- Excel
 
-These insights can help HR teams refine remote work policies, optimize scheduling, and improve workforce management for better efficiency and employee satisfaction. 🚀
+ 
+## Files Included
+- -<a href="https://github.com/khushigupta95/Dashboarding-for-HR-data/blob/main/HR%20ANALYTICS.pbix">Power BI File</a> – Power BI dashboard file.
+- -<a href="https://github.com/khushigupta95/Dashboarding-for-HR-data/blob/main/Attendance%20Sheet%202022-2023_Masked.xlsx">Dataset</a> – Processed HR dataset used for visualization.
+
+
+## Dashboard
+![HR Dashboard](https://github.com/khushigupta95/Dashboarding-for-HR-data/blob/main/Screenshot%20(33).png)
+
+
+## Steps Performed
+
+### 1. Data Collection and Preparation
+- Imported HR datasets into Power BI / Tableau.
+- Cleaned and structured data for visualization.
+
+### 2. Data Transformation
+- Applied data modeling techniques (relationships, joins, measures).
+- Created calculated fields using DAX (Power BI) or calculated fields in Tableau.
+
+### 3. Dashboard Creation
+- Designed interactive dashboards with key HR metrics.
+- Used visual elements like bar charts, pie charts, KPI cards, and trend lines.
+
+### 4. Filtering and Interactivity
+- Implemented slicers and filters for dynamic analysis.
+- Added drill-through functionality for deeper insights.
+
+### 5. Final Review and Optimization
+- Ensured data accuracy and performance optimization.
+- Published the dashboard for end-user access.
+
+
+## Conclusion
+This project successfully visualizes HR data, providing actionable insights through interactive dashboards that improve workforce analysis and decision-making.
